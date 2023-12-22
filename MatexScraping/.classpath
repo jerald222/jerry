@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/slf4j-api-1.7.35.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/piccolo2d-extras-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/piccolo2d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/org.base64.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-semconv-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-sdk-trace-1.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-sdk-metrics-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-sdk-logs-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-sdk-extension-autoconfigure-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-sdk-common-1.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-sdk-1.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-exporter-logging-1.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-context-1.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/opentelemetry-api-1.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-transport-native-unix-common-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-transport-native-kqueue-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-transport-native-epoll-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-transport-classes-kqueue-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-transport-classes-epoll-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-transport-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-tcnative-classes-2.0.46.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-resolver-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-handler-proxy-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-handler-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-common-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-codec-socks-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-codec-http-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-codec-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/netty-buffer-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/failsafe-2.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/error_prone_annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/com.DeathByCaptcha.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/byte-buddy-1.12.7.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="/home/admin/eclipse/java-2021-12/jar_files/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
